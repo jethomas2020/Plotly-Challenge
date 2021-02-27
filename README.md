@@ -37,11 +37,11 @@ The dataset is included as samples.json
 
         Used otu_ids for the x values.
 
-        Use sample_values for the y values.
+        Used sample_values for the y values.
 
-        Use sample_values for the marker size.
+        Used sample_values for the marker size.
 
-        Use otu_ids for the marker colors.
+        Used otu_ids for the marker colors.
 
         Use otu_labels for the text values.
 
