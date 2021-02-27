@@ -23,10 +23,10 @@ The dataset is included as samples.json
     Within the index.html, the event function optionChanged() is already included.
     This function takes the value of each dropdown option. We defined this function in the javascript.
 
-    Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+    Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-        Use sample_values as the values for the bar chart.
-            N.B. For each sample, the OTU's are listed in descending order.
+        Used sample_values as the values for the bar chart.
+            For each sample, the OTU's are listed in descending order.
 
         Use otu_ids as the labels for the bar chart.
             HINT: Labels should be strings, not numbers.
