@@ -32,9 +32,9 @@ The dataset is included as samples.json
 
         Used otu_labels as the hovertext for the chart.
 
-bar Chart
+**Bar Chart**
 
-    Create a bubble chart that displays each sample.
+    Created a bubble chart that displays each sample.
 
         Use otu_ids for the x values.
 
