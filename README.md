@@ -63,7 +63,7 @@ We have provided an index.html with an example layout. The sample index.html was
     Deploy your page to GitHub pages: https://jethomas2020.github.io/Plotly-Challenge/
 
 ---------------------------------------------   
-Hints
+**Hints**
 
     Use console.log inside of your JavaScript code to see what your data looks like at each step.
 
