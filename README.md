@@ -36,7 +36,7 @@ The dataset is included as samples.json
 
     Created a bubble chart that displays each sample.
 
-        Use otu_ids for the x values.
+        Used otu_ids for the x values.
 
         Use sample_values for the y values.
 
