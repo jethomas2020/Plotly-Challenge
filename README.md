@@ -1,5 +1,4 @@
 # Plotly-Challenge
-plot.ly Challenge
 
 
 # Plot.ly Project - Belly Button Biodiversity
