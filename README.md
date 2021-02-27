@@ -27,10 +27,10 @@ The dataset is included as samples.json
         Used sample_values as the values for the bar chart.
             For each sample, the OTU's are listed in descending order.
 
-        Use otu_ids as the labels for the bar chart.
-            HINT: Labels should be strings, not numbers.
+        Used otu_ids as the labels for the bar chart.
+            Labels should be strings, not numbers.
 
-        Use otu_labels as the hovertext for the chart.
+        Used otu_labels as the hovertext for the chart.
 
 bar Chart
 
