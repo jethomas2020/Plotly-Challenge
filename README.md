@@ -2,7 +2,7 @@
 plot.ly Challenge
 
 
-# Plot.ly Homework - Belly Button Biodiversity
+# Plot.ly Project - Belly Button Biodiversity
 
 # Background
 
