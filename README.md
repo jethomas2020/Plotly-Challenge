@@ -43,9 +43,9 @@ The dataset is included as samples.json
 
         Used otu_ids for the marker colors.
 
-        Use otu_labels for the text values.
+        Used otu_labels for the text values.
 
-    Bubble Chart
+
 
     Display sample metadata, i.e., an individual's demographic information.
         Display each key-value pair from the metadata JSON object somewhere on the page.
