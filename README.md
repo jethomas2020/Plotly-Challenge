@@ -14,7 +14,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 The dataset is included as samples.json
 
 
-# Plotly
+# Plotly Steps
 
     1. Populate a dropdown menu with all of the Sample ID's. When an option is selected, this will 
         update all of the charts.
