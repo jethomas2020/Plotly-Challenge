@@ -17,9 +17,11 @@ The dataset is included as samples.json
 
 # Step 1: Plotly
 
-    Populate a dropdown menu with all of the Sample ID's. When an option is selected, this will update all of the charts.
+    Populate a dropdown menu with all of the Sample ID's. When an option is selected, this will 
+        update all of the charts.
 
-    N.B. If you look in your index.html, the event function optionChanged() is already included. This function takes the value of each dropdown option. You need to define this function in your javascript.
+    Within the index.html, the event function optionChanged() is already included.
+    This function takes the value of each dropdown option. We defined this function in the javascript.
 
     Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
