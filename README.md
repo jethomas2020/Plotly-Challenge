@@ -54,7 +54,7 @@ The dataset is included as samples.json
 ----------------------------
 index.html
 
-We have provided an index.html with an example layout. The sample index.html was created using an older version of Bootstrap.
+We have provided an index.html with an example layout. Used Bootstrap.
 
 
 ----------------------------------------------------
