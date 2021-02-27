@@ -52,7 +52,7 @@ The dataset is included as samples.json
         Display each key-value pair from the metadata JSON object somewhere on the page.
 
 ----------------------------
-**index.html **
+index.html
 
 We have provided an index.html with an example layout. The sample index.html was created using an older version of Bootstrap.
 
